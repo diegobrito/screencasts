@@ -1,0 +1,40 @@
+# Screencasts por Diego Brito
+
+## Introdução
+
+Aqui neste repositório estão os arquivos originais dos screencasts que eu tenho gravado.
+
+## Lista de Episódios
+
+Você consegue assistir todos os screencasts em meu [Blog][screencasts_blog] ou direto pelo [YouTube][youtube].
+
+* **episodio-01**: Rails 3 com RVM, GIT, HAML, SASS, COMPASS e 960gs
+
+## Créditos
+
+[![Foto Diego Brito][foto_diegobrito]][linkedin]
+
+Os screencasts são de autoria de [Diego Brito][diegobrito], que além de railer é publicitário, blogueiro, palestrante e autor do livro [Criação de Sites na era da Web 2.0][livro]
+
+### Me siga nas redes sociais:
+
+* Blog: [www.diegobrito.com.br][diegobrito]
+* YouTube: [http://www.youtube.com/user/diegodebrito][youtube]
+* Twitter: [@diegodebrito][twitter]
+* Facebook: [http://www.facebook.com/diego.cesar.de.brito][facebook]
+* Fan Page: [http://www.facebook.com/criacaodesitesweb20][fan_page]
+* Google Plus: [https://plus.google.com/107821304671400176413][google_plus]
+* Slideshare: [http://www.slideshare.net/diegodebrito][slideshare]
+* LinkedIn: [http://www.linkedin.com/in/diegobrito][linkedin]
+
+[diegobrito]: http://www.diegobrito.com.br/ "Blog de Marketing Digital e Tecnologia"
+[screencasts_blog]: http://www.diegobrito.com.br/categoria/screencasts/ "Screencasts Diego Brito"
+[livro]: http://www.diegobrito.com.br/livro-criacao-de-sites-na-era-da-web-20 "Livro Criação de Sites"
+[foto_diegobrito]: http://www.diegobrito.com.br/wp-content/themes/Nova/widgets_footer/sobre_o_autor_diego.png "Foto Diego Brito"
+[linkedin]: http://www.linkedin.com/in/diegobrito "Currículo Diego Brito"
+[twitter]: http://twitter.com/diegodebrito "Twitter Diego Brito"
+[facebook]: http://www.facebook.com/diego.cesar.de.brito "Facebook Diego Brito"
+[google_plus]: https://plus.google.com/107821304671400176413 "Google Plus Diego Brito"
+[slideshare]: http://www.slideshare.net/diegodebrito "Slideshare Diego Brito"
+[youtube]: http://www.youtube.com/user/diegodebrito "YouTube Diego Brito"
+[fan_page]: http://www.facebook.com/criacaodesitesweb20 "Fan Page Criação de Sites Web 2.0"
