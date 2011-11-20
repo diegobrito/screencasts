@@ -1,0 +1,21 @@
+/* line 1, ../../app/stylesheets/demo.scss */
+.container {
+  background-color: #333333;
+}
+
+/* line 5, ../../app/stylesheets/demo.scss */
+.container div p {
+  background-color: #FFFFFF;
+}
+
+/* line 9, ../../app/stylesheets/demo.scss */
+div p {
+  border: 1px solid #333333;
+  padding: 10px;
+}
+
+/* line 14, ../../app/stylesheets/demo.scss */
+h2 {
+  color: #FFFFFF;
+  margin-top: 10px!important;
+}
